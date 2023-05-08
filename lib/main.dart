@@ -157,7 +157,7 @@ class Home extends StatelessWidget {
                   debugPrint('Followed');
                 },
                 child: const Text(
-                  'Follow',
+                  'Follow Me',
                   style: TextStyle(
                       color: Color.fromARGB(255, 65, 1, 88),
                       fontWeight: FontWeight.w500),
