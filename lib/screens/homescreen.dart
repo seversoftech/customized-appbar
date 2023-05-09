@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../widgets/logoPainter.dart';
 
 class Home extends StatelessWidget {
