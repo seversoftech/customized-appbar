@@ -80,6 +80,7 @@ Widget _userAvatar() {
   );
 }
 
+
 Widget _userPersonalInfo() {
   return Row(
     mainAxisAlignment: MainAxisAlignment.spaceBetween,
